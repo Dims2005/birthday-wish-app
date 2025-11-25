@@ -1,0 +1,17 @@
+{
+  "name": "birthday-wish-app",
+  "version": "1.0.0",
+  "description": "A simple web application to wish a happy birthday to someone special.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "open src/index.html"
+  },
+  "keywords": [
+    "birthday",
+    "wish",
+    "surprise",
+    "web"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
